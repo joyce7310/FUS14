@@ -9,11 +9,30 @@ CLI 명령어 환경에서 Git을 학습힙니다.
 - whoami
 - clear
 - mkdir
+  - new folder
 - cd
+  - double click
 - ls
+  - show what's in the folder
+- ls -a
+  - show all including hidden files/folder
 - rmdir
+  - delete folder
 - rm
+  - delete file
+- rm -r 
+  - deletes folder with files
+- rm -rf 
+  - remove by force
 - mv
+  - change file name, moving folder 변경
+- touch 
+  - 빈 파일
+- echo 
+  - 내용있는 파일
+- cat
+  - show detail about file
+
 
 ## Git
 - 초기환경 설정
