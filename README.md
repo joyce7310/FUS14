@@ -21,3 +21,9 @@
 - git status
 - git add
 - git commit -m 
+
+- git log
+- git log --oneline
+- git tag
+- git reset --hard
+- git push -u origin main
