@@ -158,3 +158,27 @@ a img {
   background-color: transparent;
   color: #ffffff;
 }
+ /* 메인 컨텐츠 */
+
+ /* 모바일 버전*/
+ .app-main{
+   background-color: yellow;
+
+ }
+ .ediya-menu figure{
+   background-color: rgb(231, 231, 231);
+   width: 248px;
+ }
+ .ediya-menu img{
+   border: 1px solid red;
+   max-width: 100%;
+   height: auto;
+   
+ }
+
+ /* 데스크탑 버전*/
+@media all and (min-width: 768px){
+  .app-main{
+    background-color: pink;
+  }
+}
